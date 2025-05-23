@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #272626;
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    background-color: rgb(248, 245, 245);
+    color: #000000; 
+    margin: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
+    border-radius: 30px;
+    
+}
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+nav img{
+    width: 130px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+button{
+    text-decoration: none;
+    list-style: none;
+    margin-right: 80px;
+    padding: 20px;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: rgb(235, 59, 59);
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+.inicio{
+    background-color: #000000;
+    margin: 25px;
+    border-radius: 30px;
+}
+.inicio h2{
+    text-align: center;
+    padding: 30px;
+    
+}
+.inicio p{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.historia{
+    background-color: #000;
+    margin-left: 25px;
+    margin-right: 25px;
+    text-align: center;
+    padding: 30px;
+    border-radius: 30px;
+    
+}
+
+.historia img{
+    width: 650px;
+}
+
+.titulos{
+    background-color: #000;
+    margin: 30px;
+    margin-left: 25px;
+    margin-right: 25px;
+    text-align: center;
+    border-radius: 30px;
+}
+.titulos img{
+    width: 650px; 
+}
+footer{
+    text-align: center;
+    background-color: #ff0000;
+}
+
+
+
